@@ -1,0 +1,20 @@
+{
+  "name": "tmp",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \"Error: no test specified\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "hexlet-hello-world"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "Nastya",
+  "license": "ISC"
+}
